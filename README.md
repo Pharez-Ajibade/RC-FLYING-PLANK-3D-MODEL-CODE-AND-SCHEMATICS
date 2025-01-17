@@ -40,7 +40,7 @@ Test and fly: Perform ground tests, check control surfaces, and conduct safe fli
 
 A FULL TUTORIAL FOR THIS BUILD IS AVAILABLE @ LIGIENCE ON YOUTUBE 
 LINK; 
-
+https://youtube.com/@ligience?si=8ZkZ86Wc8NTVhK07
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
