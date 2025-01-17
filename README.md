@@ -14,22 +14,33 @@ Code: Firmware for the flight controller, which includes control logic for the f
 The main components required for this project are:
 
 Motor: A brushless motor suitable for lightweight aircraft.
+
 Electronic Speed Controller (ESC): To control the motor speed.
-Servos: For controlling the control surfaces (elevons).\
+
+Servos: For controlling the control surfaces (elevons).
+
 Flight Controller ( An Arduino microcontroller )
+
 Radio Receiver: To communicate between the transmitter and flight controller.
+
 Battery: A LiPo battery (suitable for the motor and ESC).
+
 Propeller: A lightweight propeller for efficient thrust.
 
 General Assembly Steps:
+
 Build the airframe: 3D print or cut the airframe parts from foam, wood, or other lightweight materials.
+
 Install the motor: Attach the motor to the motor mount and secure it to the airframe.
+
 Connect the electronics: Wire the ESC, servos, and receiver to the flight controller.
+
 Test and fly: Perform ground tests, check control surfaces, and conduct safe flight testing.
-License
+
 
 A FULL TUTORIAL FOR THIS BUILD IS AVAILABLE @ LIGIENCE ON YOUTUBE 
 LINK; 
 
 
+License
 This project is licensed under the MIT License. See the LICENSE file for more information.
