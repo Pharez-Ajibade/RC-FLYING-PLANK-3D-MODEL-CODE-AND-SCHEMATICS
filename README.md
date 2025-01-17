@@ -15,7 +15,7 @@ The main components required for this project are:
 
 Motor: A brushless motor suitable for lightweight aircraft.
 Electronic Speed Controller (ESC): To control the motor speed.
-Servos: For controlling the control surfaces (elevons).
+Servos: For controlling the control surfaces (elevons).\
 Flight Controller ( An Arduino microcontroller )
 Radio Receiver: To communicate between the transmitter and flight controller.
 Battery: A LiPo battery (suitable for the motor and ESC).
